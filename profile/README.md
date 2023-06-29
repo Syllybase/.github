@@ -3,7 +3,9 @@
 Welcome to Syllybase, a comprehensive syllabus management application. This organization contains the source code for the Syllybase application. The application is divided into three parts:
 
 -`documentation`: Contains documentation for the project.
+
 -`syllybase_next`: A Next.js app for the frontend.
+
 -`syllybase_flask`: A Flask API that serves as the backend.
 
 To learn more about each part of the application, navigate to the respective repositories and read the README files.
